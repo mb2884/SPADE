@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Blender](https://img.shields.io/badge/Blender-3.0+-orange)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-PyTorch-red)
+
+
 [View Final Paper](mb2884_written_final_report.pdf)
 
 ## 🎯 Project Overview
