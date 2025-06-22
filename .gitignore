@@ -1,0 +1,12 @@
+SHIQ
+M2-Net
+TSHRNet
+output
+datasetgen/output_folder
+__pycache__
+*.pth
+*.zip
+*.exr
+*.blend
+*.png
+*.jpg
